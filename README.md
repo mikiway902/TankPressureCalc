@@ -26,6 +26,6 @@ https://colab.research.google.com/github/mikiway902/PyFlowDensityCalc/blob/main/
 
 ## Итоговые графики:
 
-![Массовый расход от времени при внешнем давлении 1 атм.](Results\mass_flow_vs_time.png)
-![Давление внутри от времени при внешнем давлении 1 атм.](Results\pressure_vs_time.png)
-![Массовый расход от времени при невесомости и внешнем давлении 0 атм.](Results\velocity_vs_time.png)
+![Массовый расход от времени при внешнем давлении 1 атм.](https://github.com/mikiway902/TankPressureCalc/blob/5fe80f2486c8bccf3fa8f724bc6b6594480a94c5/Results/mass_flow_vs_time.png)
+![Давление внутри от времени при внешнем давлении 1 атм.](https://github.com/mikiway902/TankPressureCalc/blob/5fe80f2486c8bccf3fa8f724bc6b6594480a94c5/Results/pressure_vs_time.png)
+![Массовый расход от времени при невесомости и внешнем давлении 0 атм.](https://github.com/mikiway902/TankPressureCalc/blob/5fe80f2486c8bccf3fa8f724bc6b6594480a94c5/Results/velocity_vs_time.png)
